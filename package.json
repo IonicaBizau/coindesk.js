@@ -1,0 +1,44 @@
+{
+  "name": "bitcoin-value",
+  "description": "Get the current and historical Bitcoin price in different currencies.",
+  "keywords": [
+    "bitcoin",
+    "value",
+    "get",
+    "the",
+    "current",
+    "and",
+    "historical",
+    "price",
+    "in",
+    "different",
+    "currencies"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "homepage": "https://github.com/IonicaBizau/bitcoin-value#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/bitcoin-value.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/bitcoin-value/issues"
+  }
+}
