@@ -40,5 +40,10 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/bitcoin-value/issues"
+  },
+  "dependencies": {
+    "daty": "^1.1.0",
+    "jsonrequest": "^4.2.0",
+    "noop6": "^1.0.6"
   }
 }
