@@ -1,6 +1,6 @@
 {
-  "name": "bitcoin-value",
-  "description": "Get the current and historical Bitcoin price in different currencies.",
+  "name": "coindesk.js",
+  "description": "Get the current and historical Bitcoin price in different currencies, using Coindesk.",
   "keywords": [
     "bitcoin",
     "value",
